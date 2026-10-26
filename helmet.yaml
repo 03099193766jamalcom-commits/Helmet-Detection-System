@@ -1,0 +1,6 @@
+path: F:/all F files/7th/Helmet Detection System
+train: train/images
+val: valid/images
+
+nc: 2
+names: ['helmet','no_helmet']
